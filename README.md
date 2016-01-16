@@ -18,6 +18,7 @@ openPDS - Registry Server
     >source bin/activate
     
     >git clone git@github.com:HumanDynamics/openPDS-RegistryServer.git -b master
+    >git clone git@github.com:Sunnepah/openPDS-RegistryServer.git -b master
 
     >cd openPDS-RegistryServer
  * Note: In conf/requirements.txt change the following:
