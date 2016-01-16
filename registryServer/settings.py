@@ -15,7 +15,7 @@ DATABASES = {
         # supported db backends are 'postgresql_psycopg2', 'mysql', 'sqlite3' or 'oracle'
         #'ENGINE': 'django.db.backends.mysql', 
         'ENGINE': 'django.db.backends.sqlite3', 
-        'NAME': '/var/www/trustframework/registryEnv/OMS-RegistryServer/test.db',      
+        'NAME': 'test.db',      
         #'NAME': 'test.db',      
         'USER': 'default',      
         'PASSWORD': 'default',  
