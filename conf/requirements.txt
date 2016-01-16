@@ -1,6 +1,6 @@
 # XXX add specific version numbers once we can confirm the latest stable versions all work
 django==1.4.3
-pymongo
+pymongo==2.8
 # XXX - re-enable once we make postgresql / mysql an developer-defined detail
 #psycopg2
 pycrypto
@@ -10,7 +10,7 @@ django-tastypie==0.9.11
 mongoengine
 requests
 django-4store
-django-allauth
+django-allauth==0.20.0
 
 # oauth2app
 https://github.com/hiidef/oauth2app/tarball/master
